@@ -1,0 +1,89 @@
+{
+    "class": "F2e class",
+    "students": [{
+        "name": "Amy",
+        "age": 12,
+        "email": "test1@gamil.com",
+        "fee": 8000
+    },{
+        "name": "Althea",
+        "age": 23,
+        "email": "test2@gamil.com",
+        "fee": 12000
+    },{
+        "name": "Wallis",
+        "age": 14,
+        "email": "test3@gamil.com",
+        "fee": 12000
+    },{
+        "name": "Valerie",
+        "age": 8,
+        "email": "test4@gamil.com",
+        "fee": 8000
+    },{
+        "name": "Tracy",
+        "age": 12,
+        "email": "test5@gamil.com",
+        "fee": 8000
+    },{
+        "name": "Spring",
+        "age": 32,
+        "email": "test6@gamil.com",
+        "fee": 12000
+    },{
+        "name": "Simona",
+        "age": 12,
+        "email": "test7@gamil.com",
+        "fee": 8000
+    },{
+        "name": "Sandy",
+        "age": 33,
+        "email": "test8@gamil.com",
+        "fee": 12000
+    },{
+        "name": "Roxanne",
+        "age": 29,
+        "email": "test9@gamil.com",
+        "fee": 12000
+    },{
+        "name": "Olivia",
+        "age": 14,
+        "email": "test10@gamil.com",
+        "fee": 8000
+    },{
+        "name": "Natividad",
+        "age": 15,
+        "email": "test11@gamil.com",
+        "fee": 8000
+    },{
+        "name": "Molly",
+        "age": 10,
+        "email": "test12@gamil.com",
+        "fee": 8000
+    },{
+        "name": "Melissa",
+        "age": 16,
+        "email": "test13@gamil.com",
+        "fee": 8000
+    },{
+        "name": "Marjorie",
+        "age": 27,
+        "email": "test14@gamil.com",
+        "fee": 12000
+    },{
+        "name": "Mandy",
+        "age": 29,
+        "email": "test15@gamil.com",
+        "fee": 15000
+    },{
+        "name": "Madge",
+        "age": 27,
+        "email": "test16@gamil.com",
+        "fee": 12000
+    },{
+        "name": "Leila",
+        "age": 12,
+        "email": "test17@gamil.com",
+        "fee": 8000
+    }]
+}
