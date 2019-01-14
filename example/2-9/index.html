@@ -4,16 +4,15 @@
 <head>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Example 2 - 8</title>
+    <title>Example 2 - 9</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body>
-    <h1>下載進度</h1>
-    Load: <span id="load">0%</span>
-    <div>
-        <img id="content">
+    <input type="file" id="fileElem" multiple accept="image/*" style="display:none">
+    <a href="#" id="fileSelect">Select some files</a>
+    <div id="fileList">
+        <p>No files selected!</p>
     </div>
 </body>
-<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
 <script src="main.js"></script>
 </html>
