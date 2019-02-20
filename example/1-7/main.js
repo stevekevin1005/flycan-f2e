@@ -1,7 +1,7 @@
-window.onload = function() {
+window.onload = function () {
     const PAGE_SHOW = 5;
     var students;
-    var req  = new XMLHttpRequest();
+    var req = new XMLHttpRequest();
     req.onreadystatechange = function () {
         if (this.readyState == 4 && this.status == 200) {
             var obj = JSON.parse(this.responseText);
@@ -43,4 +43,11 @@ window.onload = function() {
             document.getElementById("page").appendChild(button);
         }
     })();
+
+    document.getElementById("sort").addEventListener("click", function () {
+        students = students.sort(function (a, b) {
+            return a.age - b.age
+        });
+        render(students, 1);
+    })
 }
